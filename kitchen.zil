@@ -768,7 +768,7 @@ tavern, and the farmers shoo you out into the town square."
 			<COND
 				(<MC-FORM? ,K-FORM-OWL>
 					<TELL
-"You flutter around the cage for a few moments, but don't make any progess." CR
+"You flutter around the cage for a few moments, but don't make any progress." CR
 					>
 				)
 				(<MC-FORM? ,K-FORM-SALAMANDER>
