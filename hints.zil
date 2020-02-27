@@ -1240,7 +1240,7 @@ that can be called Glastonbury-ish.">
 "The following is a partial list of books I found useful and/or interesting
 in the creation of this game.||	FICTION:||	Le Morte D'Arthur, by Sir Thomas
 Mallory|	The History of the Kings of Britain, by Geoffrey of Monmouth|	Sir
-Gawain and the Green Knight, translated by J.R.R Tolkein|	The Once and
+Gawain and the Green Knight, translated by J.R.R Tolkien|	The Once and
 Future King, by T.H. White|	The Crystal Cave, by Mary Stewart|	The Hollow
 Hills, by Mary Stewart|	The Last Enchantment, by Mary Stewart|	The Wicked
 Day, by Mary Stewart|	The Acts of King Arthur & His Noble Knights, by John
