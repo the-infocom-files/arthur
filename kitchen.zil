@@ -442,7 +442,7 @@ cooked. Heh Heh.\"" CR
 						)
 						(T
 							<TELL
-"The cook fixes you with a viscious stare and says, \"If I ever find out who
+"The cook fixes you with a vicious stare and says, \"If I ever find out who
 opened that cage, I'll throttle him with my own hands.\"" CR
 							>
 						)
