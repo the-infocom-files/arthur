@@ -623,7 +623,7 @@ CH-KRAKEN
 		<PLTABLE
 CH-KRAKEN
 "How do I get the bracelet?"
-"The Kraken won't give it to you."
+"The kraken won't give it to you."
 "You'll have to take it from him."
 "You'll have to use violence."
 "You'll have to cut it off with your sword."
