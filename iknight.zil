@@ -85,7 +85,7 @@ later you feel ghostly fingers pluck at your clothing, and ">
 						(T
 							<TELL
 "|You hear the thunder of approaching hooves and suddenly a knight on
-horseback pulls up next ot you. Startled that you can see him, he wheels his
+horseback pulls up next to you. Startled that you can see him, he wheels his
 horse around, shouts, \"Tally ho!\" and gallops away again, leaving your
 possessions intact." CR>)>)>)
 		(<MC-CONTEXT? ,M-F-LOOK ,M-V-LOOK ,M-LOOK>
