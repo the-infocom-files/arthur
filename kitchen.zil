@@ -442,7 +442,7 @@ cooked. Heh Heh.\"" CR
 						)
 						(T
 							<TELL
-"The cook fixes you with a viscious stare and says, \"If I ever find out who
+"The cook fixes you with a vicious stare and says, \"If I ever find out who
 opened that cage, I'll throttle him with my own hands.\"" CR
 							>
 						)
@@ -768,7 +768,7 @@ tavern, and the farmers shoo you out into the town square."
 			<COND
 				(<MC-FORM? ,K-FORM-OWL>
 					<TELL
-"You flutter around the cage for a few moments, but don't make any progess." CR
+"You flutter around the cage for a few moments, but don't make any progress." CR
 					>
 				)
 				(<MC-FORM? ,K-FORM-SALAMANDER>

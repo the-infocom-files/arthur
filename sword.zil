@@ -639,7 +639,7 @@ CR The ,CH-BLACK-KNIGHT " takes advantage of your inactivity to ">)>
 							<RT-END-OF-GAME>)
 						(T
 							<TELL
-"launch a suprise attack. He feints a blow to your head, and then suddenly
+"launch a surprise attack. He feints a blow to your head, and then suddenly
 whirls and deals you a fatal blow across your midsection.|">
 							<RT-END-OF-GAME>)>)
 				(T
